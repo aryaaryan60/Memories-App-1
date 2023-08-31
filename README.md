@@ -1,7 +1,7 @@
 
 # Memories-App
 
-MERN stack Memories App is which we upload our photos and make a dairy and also we also we other post also .
+MERN stack Memories App in which we upload our photos and make a dairy and we can see other's post  .
 
 
 ## Tech Stack
